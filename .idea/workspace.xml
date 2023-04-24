@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4b7863-ab19-465c-b641-73fb576f6456" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Program Files/Go" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lub036kwvaHJjHBXsD5Nb7NlCH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.format.on.save.advertiser.fired&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zariii/Documents/goworkspace/src/OfflineSearchEngine/Internals/SearchEngines&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\zariii\Documents\goworkspace\src\OfflineSearchEngine\Internals\SearchEngines" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zariii\Documents\goworkspace\src\OfflineSearchEngine\Internals" />
+      <recent name="C:\Users\zariii\Documents\goworkspace\src\OfflineSearchEngine" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestInvertedIndex_AddData in OfflineSearchEngine/Internals/InvertedIndex">
+    <configuration name="TestInvertedIndex_AddData in OfflineSearchEngine/Internals/InvertedIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="OfflineSearchEngine" />
+      <working_directory value="$PROJECT_DIR$/Internals/InvertedIndex" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="OfflineSearchEngine/Internals/InvertedIndex" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestInvertedIndex_AddData\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestInvertedIndex_AddData/test2 in OfflineSearchEngine/Internals/InvertedIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="OfflineSearchEngine" />
+      <working_directory value="$PROJECT_DIR$/Internals/InvertedIndex" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="OfflineSearchEngine/Internals/InvertedIndex" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestInvertedIndex_AddData\E$/^\Qtest2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLinearFastAddEngine_Search in OfflineSearchEngine/Internals/InvertedIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="OfflineSearchEngine" />
+      <working_directory value="$PROJECT_DIR$/Internals/InvertedIndex" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="OfflineSearchEngine/Internals/InvertedIndex" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestLinearFastAddEngine_Search\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLinearFastAddEngine_Search/test2 in OfflineSearchEngine/Internals/InvertedIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="OfflineSearchEngine" />
+      <working_directory value="$PROJECT_DIR$/Internals/InvertedIndex" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="OfflineSearchEngine/Internals/InvertedIndex" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestLinearFastAddEngine_Search\E$/^\Qtest2\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLinearFastAddEngine_Search/test3 in OfflineSearchEngine/Internals/InvertedIndex" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="OfflineSearchEngine" />
+      <working_directory value="$PROJECT_DIR$/Internals/InvertedIndex" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="OfflineSearchEngine/Internals/InvertedIndex" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestLinearFastAddEngine_Search\E$/^\Qtest3\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestInvertedIndex_AddData in OfflineSearchEngine/Internals/InvertedIndex" />
+        <item itemvalue="Go Test.TestLinearFastAddEngine_Search in OfflineSearchEngine/Internals/InvertedIndex" />
+        <item itemvalue="Go Test.TestInvertedIndex_AddData/test2 in OfflineSearchEngine/Internals/InvertedIndex" />
+        <item itemvalue="Go Test.TestLinearFastAddEngine_Search/test3 in OfflineSearchEngine/Internals/InvertedIndex" />
+        <item itemvalue="Go Test.TestLinearFastAddEngine_Search/test2 in OfflineSearchEngine/Internals/InvertedIndex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Internals/LinearSearchEngineWithPosting/LinearSearchEngineWithPosting.go</url>
+          <line>40</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Internals/LinearSearchEngineWithPosting/LinearSearchEngineWithPosting_test.go</url>
+          <line>26</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/Internals/SearchEngines/LinearSortedEngine/LinearSortedEngine.go</url>
+          <line>39</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="DlvErrorBreakpoint" />
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OfflineSearchEngine$TestDumbEngine_AddData_in_OfflineSearchEngine_Internals_DumbEngine.out" NAME="TestDumbEngine_AddData in OfflineSearchEngine/Internals/DumbEngine Coverage Results" MODIFIED="1677089973782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="GoCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
